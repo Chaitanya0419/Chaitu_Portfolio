@@ -183,7 +183,7 @@ hr {
 
   .rightSection img {
     width: 50%;
-    margin: 8px 110px
+    margin: 8px 90px
   }
 }
 
@@ -800,4 +800,7 @@ hr {
 .footer .box-container .box a {
   text-decoration: none;
 }
+  .footer .box-container .box .share a {
+    margin: 0.4rem;
+    
 }
